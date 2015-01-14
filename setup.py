@@ -1,9 +1,9 @@
-from distutils.core import setup
+from distutils.core import setup, find_packages
 
 setup(
     name='heapanalytics-python',
     version='0.1',
-    packages=['heapanalytics'],
+    packages=find_packages(),
     license=open('LICENSE').read(),
     author='Michael Palumbo',
     author_email='michael.palumbo87@gmail.com',
