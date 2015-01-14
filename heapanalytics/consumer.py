@@ -1,5 +1,5 @@
 # coding=utf-8
-from __future__ import unicode_literals, absolute_import
+from __future__ import unicode_literals
 
 """
 Consumers to send the data to Heap Analytics.

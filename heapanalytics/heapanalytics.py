@@ -1,5 +1,5 @@
 # coding=utf-8
-from __future__ import unicode_literals, absolute_import
+from __future__ import unicode_literals
 
 """
 A module for using the HeapAnalytics Server-Side API (https://heapanalytics.com/docs/server-side)
