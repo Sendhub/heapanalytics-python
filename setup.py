@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='heapanalytics-python',
     version='0.1',
-    packages=[''],
+    packages=['heapanalytics'],
     license=open('LICENSE').read(),
     author='Michael Palumbo',
     author_email='michael.palumbo87@gmail.com',
